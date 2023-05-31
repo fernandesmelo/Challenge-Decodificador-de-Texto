@@ -11,10 +11,10 @@ Um Decodificador de Texto  para  criptografar e descriptrografar textos.
 - `Funcionalidade 1`: criptografar textos.
 - `Funcionalidade 2`: descriptografar textos.
 - `Funcionalidade 3`: Ctrl + z limpar área de texto.
-- `Funcionalidade 4`: copiar textos.                            
-- `Funcionalidade 5`: deletar textos.
+- `Funcionalidade 4`: copiar textos.  
+- `Funcionalidade 5`: deletar textos.                          
 
-https://github.com/fernandesmelo/decodificador-de-texto/assets/113717317/e8406ec1-5fea-4ba5-ad82-980604bf2d3a
+https://github.com/fernandesmelo/Challenge-Decodificador-de-Texto/assets/113717317/1d31074b-bc19-4fc3-bbfc-f6139a5b08d3
 
 ## Acesso ao Projeto
 **Baixe o projeto clicando no botão code e em seguida download zip.**
