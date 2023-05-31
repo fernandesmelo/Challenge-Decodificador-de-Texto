@@ -17,10 +17,8 @@ Um Decodificador de Texto  para  criptografar e descriptrografar textos.
 https://github.com/fernandesmelo/Challenge-Decodificador-de-Texto/assets/113717317/1d31074b-bc19-4fc3-bbfc-f6139a5b08d3
 
 ## Acesso ao Projeto
-**Baixe o projeto clicando no botão code e em seguida download zip.**
-
-## Abrir e Rodar o Projeto
-**Após baixar o projeto entre na pasta e clique no documento index.html.**
+Acesse o projeto clicando nesse link:
+https://fernandesmelo.github.io/Challenge-Decodificador-de-Texto/
 
 ## Tecnologias Usadas:
 <div style="display: inline-block"><br/>
