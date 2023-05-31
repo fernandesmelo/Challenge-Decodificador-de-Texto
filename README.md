@@ -1,6 +1,5 @@
 # Decodificador de Texto
-
-![principal](https://github.com/fernandesmelo/decodificador-de-texto/assets/113717317/ac264e22-ec20-4efb-8592-9c3977aa4edd)
+![principal](https://github.com/fernandesmelo/Challenge-Decodificador-de-Texto/assets/113717317/5ccf71a3-5306-48bd-aef7-2e24622e4b74)
 
 ##  Descrição do Projeto
 Um Decodificador de Texto  para  criptografar e descriptrografar textos.
