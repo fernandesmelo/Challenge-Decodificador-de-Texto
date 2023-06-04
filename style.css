@@ -85,6 +85,7 @@ textarea {
 
 #saida {
     width: 400px;
+    height: 522px;
     align-items: center;
     background: white;
     box-shadow: 0px 24px 32px -8px rgba(0, 0, 0, 0.08);
