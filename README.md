@@ -14,9 +14,10 @@ Um Decodificador de Texto  para  criptografar e descriptrografar textos.
 - `Funcionalidade 4`: copiar textos.  
 - `Funcionalidade 5`: deletar textos.                          
 
-https://github.com/fernandesmelo/Challenge-Decodificador-de-Texto/assets/113717317/1d31074b-bc19-4fc3-bbfc-f6139a5b08d3
+![Captura de tela 2023-06-07 000722](https://github.com/fernandesmelo/Challenge-Decodificador-de-Texto/assets/113717317/b26aa6cc-c888-4171-9e7e-62475a41a677)
 
-## Acesso ao Projeto
+## Acess![Uploading Captura de tela 2023-06-07 000722.png…]()
+o ao Projeto
 Acesse o projeto clicando nesse link:
 https://fernandesmelo.github.io/Challenge-Decodificador-de-Texto/
 
