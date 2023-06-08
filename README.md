@@ -2,7 +2,7 @@
 ![principal](https://github.com/fernandesmelo/Challenge-Decodificador-de-Texto/assets/113717317/5ccf71a3-5306-48bd-aef7-2e24622e4b74)
 
 ##  Descrição do Projeto
-Projeto desenvolvido a través do Programa One - Oracle Next Education.
+Projeto desenvolvido através do challenge do Programa One - Oracle Next Education.
 Um Decodificador de Texto  para  criptografar e descriptrografar textos.
 
 ## Status do Projeto
