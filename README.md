@@ -4,7 +4,7 @@ O mesmo se trata de uma aplicação que criptografa textos, assim você poderá 
 
 ![principal](https://github.com/fernandesmelo/Challenge-Decodificador-de-Texto/assets/113717317/5ccf71a3-5306-48bd-aef7-2e24622e4b74)
 
-##  Sobre o Desafio
+##  Sobre o Desafio - Descrição
 As "chaves" de criptografia que utilizaremos são:
 
 🔍 A letra "e" é convertida para "enter"
