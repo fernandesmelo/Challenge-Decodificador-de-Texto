@@ -43,7 +43,8 @@ Um botão que copie o texto criptografado/descriptografado para a área de trans
 - `Funcionalidade 4`: copiar textos.  
 - `Funcionalidade 5`: deletar textos.                          
 
-![Captura de tela 2023-06-07 000722](https://github.com/fernandesmelo/Challenge-Decodificador-de-Texto/assets/113717317/b26aa6cc-c888-4171-9e7e-62475a41a677)
+ ![decodificador-de-texto](https://github.com/fernandesmelo/Challenge-Decodificador-de-Texto/assets/113717317/92b0db20-c754-471e-8774-2bedd858580e)
+
 
 ## Acesso ao Projeto
 Acesse o projeto clicando nesse link:
